@@ -1,2 +1,3 @@
-# GOSC-Repo
-Main repository for Guzikoff Offensive Security Company, focused on penetration testing and cybersecurity audits.
+# Guzikoff Offensive Security Company
+
+*We find weaknesses so you can grow stronger!*
